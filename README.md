@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @leikcaro
-- 👀 I’m interested in show my work on Data Science and learn about DS, ML and AI
-- 🌱 I’m currently learning about Data Science on DataQuest, DataCamp, and other ways
-- 💞️ I’m looking to collaborate on intresting Data Science projects that involve data cleaning, plots, and relevant results, willing to work free for now :)
+- 👀 I’m interested in trends on DS, ML and AI
+- 🌱 I’m currently learning about above topics
+- 💞️ I’m looking to collaborate on same things or related fields
 - 📫 How to reach me, you can write me to leikcaro@gmail.com
 
 <!---
