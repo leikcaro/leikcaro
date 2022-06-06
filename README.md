@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @leikcaro
 - 👀 I’m interested in trends on DS, ML and AI
-- 🌱 I’m currently learning about above topics
-- 💞️ I’m looking to collaborate on same things or related fields
+- 🌱 I’m currently learning about advanced ML best practices, new models and Deep learning (specially image and NLP)
+- 💞️ I’m looking to collaborate on fun ML and AI projects
 - 📫 How to reach me, you can write me to leikcaro@gmail.com
 
 <!---
